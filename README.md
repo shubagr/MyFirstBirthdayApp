@@ -1,2 +1,2 @@
 # MyFirstBirthdayApp
-test app
+<dd> Simple app with Hello world intent!</dd>
